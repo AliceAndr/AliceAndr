@@ -4,5 +4,5 @@
 Меня зовут Алиса, я frontend-разработчик прямиком из пасмурного Санкт-Петербурга.
 
 ### Частоиспользуемые языки:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?aliceandr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceAndr)](https://github.com/anuraghazra/github-readme-stats)
 
